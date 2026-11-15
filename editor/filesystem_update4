@@ -1,1 +1,6 @@
 res://node_2d.tscn
+res://Game Stuff/Scenes/main.tscn
+res://Game Stuff/Scenes/fish.tscn
+res://Game Stuff/Scenes/fish_form.tscn
+res://Game Stuff/Code/fish.gd
+res://Game Stuff/Code/fish_form.gd

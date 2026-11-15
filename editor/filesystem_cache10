@@ -1,3 +1,12 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1794717215
-icon.svg::CompressedTexture2D::6656057064400658381::1794717206::1794717216::1::::<><><>0<>0<>8805438a5e965ce64608c2003ab322e7<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://::1794718055
+::res://Game Stuff/::1794717452
+::res://Game Stuff/Assets/::1794718055
+fish.png::CompressedTexture2D::7736144896380679300::1794717978::1794718056::1::::<><><>0<>0<>7fd7201bcb0223024e2453f6dd7d664a<>res://.godot/imported/fish.png-a353022eff8e78ca8ef836ce3662aa9b.ctex::
+icon.svg::CompressedTexture2D::6656057064400658381::1794717206::1794717458::1::::<><><>0<>0<>fc7380943332095ad56bc476cf0bb08b<>res://.godot/imported/icon.svg-ef9abdf57363ee450bf7116f935e8fc3.ctex::
+::res://Game Stuff/Code/::1794717448
+::res://Game Stuff/Music/::1794717453
+::res://Game Stuff/Scenes/::1794717994
+fish.tscn::PackedScene::7512764977132407854::1794717994::0::1::::<><><>0<>0<><>::
+main.tscn::PackedScene::7594824670424122986::1794717517::0::1::::<><><>0<>0<><>::
+::res://Game Stuff/Sound Effects/::1794717457
